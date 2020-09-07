@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f78b15-8686-4a5b-9a21-85b25379273b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/src/main/java/com/tao/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/src/main/java/com/tao/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/src/main/java/com/tao/dao/UserDaoMysqlImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/src/main/java/com/tao/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/src/main/java/com/tao/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/target/classes/com/tao/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/target/classes/com/tao/dao/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/target/classes/com/tao/dao/UserDaoMysqlImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/target/classes/com/tao/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/target/classes/com/tao/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-ioc/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-02-hellospring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-02-hellospring/src/main/java/com/tao/pojo/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-02-hellospring/src/main/resources/beans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-02-hellospring/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-02-hellospring/target/classes/beans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-02-hellospring/target/classes/com/tao/pojo/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-02-hellospring/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/java/com/tao/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/com/tao/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springstudy.iml" afterDir="false" />
+    <list default="true" id="59f78b15-8686-4a5b-9a21-85b25379273b" name="Default Changelist" comment="spring study">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="210">
+              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,9 +72,9 @@
         <option value="$PROJECT_DIR$/spring-02-hellospring/src/main/resources/beans" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-02-hellospring/src/test/java/MyTest.java" />
-        <option value="$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java" />
         <option value="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans.xml" />
         <option value="$PROJECT_DIR$/spring-03-ioc2/src/main/java/com/tao/pojo/User.java" />
+        <option value="$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java" />
       </list>
     </option>
   </component>
@@ -243,6 +212,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -311,33 +281,42 @@
       <workItem from="1599305363900" duration="7000" />
       <workItem from="1599305395235" duration="19000" />
       <workItem from="1599305438908" duration="1203000" />
-      <workItem from="1599438923503" duration="1606000" />
+      <workItem from="1599438923503" duration="3011000" />
     </task>
+    <task id="LOCAL-00001" summary="spring study">
+      <created>1599441257999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599441257999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35330000" />
+    <option name="totallyTimeSpent" value="36735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.49916527" visible="true" weight="0.19616205" />
-      <window_info id="Favorites" order="5" sideWeight="0.5008347" side_tool="true" visible="true" weight="0.19616205" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.4989154" visible="true" weight="0.19616205" />
+      <window_info id="Favorites" order="5" sideWeight="0.5010846" side_tool="true" visible="true" weight="0.19616205" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.22234273" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.329718" />
       <window_info anchor="bottom" id="Spring" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.35032538" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.35032538" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -355,6 +334,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring study" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring study" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springstudy.iml">
@@ -571,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="210">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
