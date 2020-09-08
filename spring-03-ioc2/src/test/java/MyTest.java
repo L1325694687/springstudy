@@ -8,6 +8,6 @@ public class MyTest {
         ApplicationContext context = new  ClassPathXmlApplicationContext("beans.xml");
        User user =(User)context.getBean("user");
        user.show();
-        System.out.println("sss");
+        System.out.println("aaa");
     }
 }
